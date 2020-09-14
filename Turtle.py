@@ -1,11 +1,4 @@
-# house.py
-
-# use the turtle graphics library
 import turtle
-
-##
-# change the following code so that a house is drawn
-##
 
 turtle.forward(200)
 turtle.left(90)
@@ -117,13 +110,5 @@ turtle.left(90)
 turtle.forward(37.5)
 turtle.left(90)
 turtle.forward(40)
-
-
-
-
-
-
-
-
 
 input("press enter to end")
